@@ -36,7 +36,7 @@ function calculate() {
             });
     }
     else if (type==3) {
-        fetch("https://raw/githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/77mm.json")
+        fetch("https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/77mm.json")
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
@@ -46,7 +46,7 @@ function calculate() {
             });
     }
     else if (type==4) {
-        fetch("https://raw/githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/EasyView.json")
+        fetch("https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/EasyView.json")
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];

@@ -44,6 +44,7 @@ input::-webkit-inner-spin-button {
 p {
     font-size: 28px;
     margin: 5px 10px;
+    color: green;
 
 }
 input[type=number] {
