@@ -36,7 +36,7 @@ function calculate() {
             });
     }
     else if (type==3) {
-        fetch("/pricecalculatorweb//prices/77mm.json")
+        fetch("/pricecalculatorweb/prices/77mm.json")
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
@@ -46,7 +46,7 @@ function calculate() {
             });
     }
     else if (type==4) {
-        fetch("/pricecalculatorweb//prices/EasyView.json")
+        fetch("/pricecalculatorweb/prices/EasyView.json")
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
@@ -56,7 +56,7 @@ function calculate() {
             });
     }
     else if (type==5) {
-        fetch("/pricecalculatorweb//prices/36mm.json")
+        fetch("/pricecalculatorweb/prices/36mm.json")
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
