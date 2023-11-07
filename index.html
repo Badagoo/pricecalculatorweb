@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Price Calculator</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <input id="h" type="number" name="height" placeholder="Height.."><br>
+    <input id="w" type="number" name="width" placeholder="Width.."><br>
+    <select id="t" placeholder="type">
+        <option value="0" disabled selected hidden>Select Type</option>
+        <option value="1">Domestic</option>
+        <option value="2">55mm</option>
+        <option value="3">77mm</option>
+        <option value="4">EasyView</option>
+        <option value="5">36mm</option>
+    </select><br>
+    <button onClick="calculate()">Calculate</button>
+    <p id="price"></p>
+    <script src="script.js"></script>
+</body>
+</html>

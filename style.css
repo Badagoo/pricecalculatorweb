@@ -1,0 +1,51 @@
+html, body{
+    display: table;
+}
+html {
+    display: table;
+    margin: auto;
+}
+body {
+    background-color: #f3f3f3;
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    display: table-cell;
+    vertical-align: middle;
+}
+input {
+    font-size: 28px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 5px 10px;
+    width: 16em;
+    padding-left: 10px;
+}
+select {
+    font-size: 28px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 5px 10px;
+    width: 16.5em;
+    padding-left: 10px;
+}
+button {
+    font-size: 28px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 5px 10px;
+    width: 16.5em;
+    padding-left: 10px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    -webkit-appearance: none;
+    margin: 0;
+}
+p {
+    font-size: 28px;
+    margin: 5px 10px;
+
+}
+input[type=number] {
+    -moz-appearance: textfield;
+}
