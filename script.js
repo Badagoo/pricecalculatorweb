@@ -16,7 +16,7 @@ function calculate() {
 
     // calculate the price
     if (type==1) {
-        fetch("https://github.com/Badagoo/pricecalculatorweb/blob/main/prices/Domestic.json")
+        fetch("https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/Domestic.json")
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
@@ -26,7 +26,7 @@ function calculate() {
             });
     }
     else if (type==2) {
-        fetch("https://github.com/Badagoo/pricecalculatorweb/blob/main/prices/55mm.json")
+        fetch("https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/55mm.json")
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
@@ -36,7 +36,7 @@ function calculate() {
             });
     }
     else if (type==3) {
-        fetch("https://github.com/Badagoo/pricecalculatorweb/blob/main/prices/77mm.json")
+        fetch("https://raw/githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/77mm.json")
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
@@ -46,7 +46,7 @@ function calculate() {
             });
     }
     else if (type==4) {
-        fetch("https://github.com/Badagoo/pricecalculatorweb/blob/main/prices/EasyView.json")
+        fetch("https://raw/githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/EasyView.json")
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
@@ -56,7 +56,7 @@ function calculate() {
             });
     }
     else if (type==5) {
-        fetch("https://github.com/Badagoo/pricecalculatorweb/blob/main/prices/36mm.json")
+        fetch("https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/36mm.json")
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
