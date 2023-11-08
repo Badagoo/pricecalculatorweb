@@ -42,10 +42,12 @@ input::-webkit-inner-spin-button {
     margin: 0;
 }
 p {
-    font-size: 24px;
+    font-size: 20px;
     margin: 5px 10px;
-    color: green;
-
+    color: blue;
+}
+p[id='total'] {
+    color: green; 
 }
 input[type=number] {
     -moz-appearance: textfield;
