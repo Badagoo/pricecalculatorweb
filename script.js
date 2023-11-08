@@ -1,7 +1,12 @@
+let num = 1;
+let specialtotal = {};
+let rrptotal = {};
 function calculate() {
     let height = document.getElementById("h").value;
     let width = document.getElementById("w").value;
     const type = document.getElementById("t").value;
+    let total = 0;
+    let totalrrp = 0;
 
     // additional height and width for the frame
     if (type==1) {height = +height + 205; width = +width + 120} // Domestic
@@ -20,9 +25,23 @@ function calculate() {
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
-                let finalPrice = price * 1.2 + 427.5;
-                finalPrice = Math.round(finalPrice * 100) / 100;
-                document.getElementById("price").innerHTML = finalPrice;
+                let special = price * 1.2 + 427.5; special = Math.round(special * 100) / 100;
+                rrp = special * 1.2; rrp = Math.round(rrp * 100) / 100;
+                let p = document.createElement("p"); p.id = "shutter" + num;
+                p.innerHTML = num + ": $" + special + " (Special) | $" + rrp + " (RRP)";
+                document.getElementById("prices").appendChild(p);
+                specialtotal[num] = special; rrptotal[num] = rrp;
+                for (let i = 1; i < num; i++) {
+                    console.log(i,num)
+                    total += specialtotal[i];
+                    totalrrp += rrptotal[i];
+                }
+                total += special; totalrrp += rrp;
+                num++;
+                total = Math.round(total * 100) / 100;
+                totalrrp = Math.round(totalrrp * 100) / 100;
+                document.getElementById("total").innerHTML = "Total: $" + total + " (Special) | $" + totalrrp + " (RRP)";
+                console.log(total, totalrrp, num);
             });
     }
     else if (type==2) {
@@ -30,9 +49,24 @@ function calculate() {
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
-                let finalPrice = (price * 1.1 * 1.3 + 571) * 1.1;
-                finalPrice = Math.round(finalPrice * 100) / 100;
-                document.getElementById("price").innerHTML = finalPrice;
+                let special = (price * 1.1 * 1.3 + 571) * 1.1; special = Math.round(special * 100) / 100;
+                rrp = special * 1.2; rrp = Math.round(rrp * 100) / 100;
+                let p = document.createElement("p");
+                p.id = "shutter" + num;
+                p.innerHTML = num + ": $" + special + " (Special) | $" + rrp + " (RRP)";
+                document.getElementById("prices").appendChild(p);
+                specialtotal[num] = special; rrptotal[num] = rrp;
+                for (let i = 1; i < num; i++) {
+                    console.log(i,num)
+                    total += specialtotal[i];
+                    totalrrp += rrptotal[i];
+                }
+                total += special; totalrrp += rrp;
+                num++;
+                total = Math.round(total * 100) / 100;
+                totalrrp = Math.round(totalrrp * 100) / 100;
+                document.getElementById("total").innerHTML = "Total: $" + total + " (Special) | $" + totalrrp + " (RRP)";
+                console.log(total, totalrrp, num);
             });
     }
     else if (type==3) {
@@ -40,9 +74,24 @@ function calculate() {
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
-                let finalPrice = (price * 1.1 * 1.3 + 571) * 1.1;
-                finalPrice = Math.round(finalPrice * 100) / 100;
-                document.getElementById("price").innerHTML = finalPrice;
+                let special = (price * 1.1 * 1.3 + 571) * 1.1; special = Math.round(special * 100) / 100;
+                rrp = special * 1.2; rrp = Math.round(rrp * 100) / 100;
+                let p = document.createElement("p");
+                p.id = "shutter" + num;
+                p.innerHTML = num + ": $" + special + " (Special) | $" + rrp + " (RRP)";
+                document.getElementById("prices").appendChild(p);
+                specialtotal[num] = special; rrptotal[num] = rrp;
+                for (let i = 1; i < num; i++) {
+                    console.log(i,num)
+                    total += specialtotal[i];
+                    totalrrp += rrptotal[i];
+                }
+                total += special; totalrrp += rrp;
+                num++;
+                total = Math.round(total * 100) / 100;
+                totalrrp = Math.round(totalrrp * 100) / 100;
+                document.getElementById("total").innerHTML = "Total: $" + total + " (Special) | $" + totalrrp + " (RRP)";
+                console.log(total, totalrrp, num);
             });
     }
     else if (type==4) {
@@ -50,9 +99,24 @@ function calculate() {
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
-                let finalPrice = (price * 1.1 * 1.3 + 571) * 1.1;
-                finalPrice = Math.round(finalPrice * 100) / 100;
-                document.getElementById("price").innerHTML = finalPrice;
+                let special = (price * 1.1 * 1.3 + 571) * 1.1; special = Math.round(special * 100) / 100;
+                rrp = special * 1.2; rrp = Math.round(rrp * 100) / 100;
+                let p = document.createElement("p");
+                p.id = "shutter" + num;
+                p.innerHTML = num + ": $" + special + " (Special) | $" + rrp + " (RRP)";
+                document.getElementById("prices").appendChild(p);
+                specialtotal[num] = special; rrptotal[num] = rrp;
+                for (let i = 1; i < num; i++) {
+                    console.log(i,num)
+                    total += specialtotal[i];
+                    totalrrp += rrptotal[i];
+                }
+                total += special; totalrrp += rrp;
+                num++;
+                total = Math.round(total * 100) / 100;
+                totalrrp = Math.round(totalrrp * 100) / 100;
+                document.getElementById("total").innerHTML = "Total: $" + total + " (Special) | $" + totalrrp + " (RRP)";
+                console.log(total, totalrrp, num);
             });
     }
     else if (type==5) {
@@ -60,10 +124,38 @@ function calculate() {
             .then(response => response.json())
             .then(data => {
                 let price = data[height][0][width];
-                let finalPrice = (price * 1.1 * 1.3 + 571) * 1.1;
-                finalPrice = Math.round(finalPrice * 100) / 100;
-                document.getElementById("price").innerHTML = finalPrice;
+                let special = (price * 1.1 * 1.3 + 571) * 1.1; special = Math.round(special * 100) / 100;
+                rrp = special * 1.2; rrp = Math.round(rrp * 100) / 100;
+                let p = document.createElement("p");
+                p.id = "shutter" + num;
+                p.innerHTML = num + ": $" + special + " (Special) | $" + rrp + " (RRP)";
+                document.getElementById("prices").appendChild(p);
+                specialtotal[num] = special; rrptotal[num] = rrp;
+                for (let i = 1; i < num; i++) {
+                    console.log(i,num)
+                    total += specialtotal[i];
+                    totalrrp += rrptotal[i];
+                }
+                total += special; totalrrp += rrp;
+                num++;
+                total = Math.round(total * 100) / 100;
+                totalrrp = Math.round(totalrrp * 100) / 100;
+                document.getElementById("total").innerHTML = "Total: $" + total + " (Special) | $" + totalrrp + " (RRP)";
+                console.log(total, totalrrp, num);
             });
     }
-    console.log(height, width, type);
+    if (num==1) {
+        let clear = document.createElement("button");
+        clear.id = "clear";
+        clear.innerHTML = "Clear";
+        clear.onclick = function() {clearPrices()};
+        document.getElementById("prices").appendChild(clear);
+    }
+}
+function clearPrices() {
+    if (confirm("Are you sure you want to clear the prices?")) {
+        document.getElementById("prices").innerHTML = "";
+        num = 1;
+        document.getElementById("total").innerHTML = "";
+    }
 }
