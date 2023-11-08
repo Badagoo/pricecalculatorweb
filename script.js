@@ -26,7 +26,7 @@ function calculate() {
             .then(data => {
                 let price = data[height][0][width];
                 let special = price * 1.2 + 427.5; special = Math.round(special * 100) / 100;
-                rrp = special * 1.2; rrp = Math.round(rrp * 100) / 100;
+                rrp = special * 1.25; rrp = Math.round(rrp * 100) / 100;
                 let p = document.createElement("p"); p.id = "shutter" + num;
                 p.innerHTML = num + ": $" + special + " (Special) | $" + rrp + " (RRP)";
                 document.getElementById("prices").appendChild(p);
@@ -50,7 +50,7 @@ function calculate() {
             .then(data => {
                 let price = data[height][0][width];
                 let special = (price * 1.1 * 1.3 + 571) * 1.1; special = Math.round(special * 100) / 100;
-                rrp = special * 1.2; rrp = Math.round(rrp * 100) / 100;
+                rrp = special * 1.25; rrp = Math.round(rrp * 100) / 100;
                 let p = document.createElement("p");
                 p.id = "shutter" + num;
                 p.innerHTML = num + ": $" + special + " (Special) | $" + rrp + " (RRP)";
@@ -75,7 +75,7 @@ function calculate() {
             .then(data => {
                 let price = data[height][0][width];
                 let special = (price * 1.1 * 1.3 + 571) * 1.1; special = Math.round(special * 100) / 100;
-                rrp = special * 1.2; rrp = Math.round(rrp * 100) / 100;
+                rrp = special * 1.25; rrp = Math.round(rrp * 100) / 100;
                 let p = document.createElement("p");
                 p.id = "shutter" + num;
                 p.innerHTML = num + ": $" + special + " (Special) | $" + rrp + " (RRP)";
@@ -100,7 +100,7 @@ function calculate() {
             .then(data => {
                 let price = data[height][0][width];
                 let special = (price * 1.1 * 1.3 + 571) * 1.1; special = Math.round(special * 100) / 100;
-                rrp = special * 1.2; rrp = Math.round(rrp * 100) / 100;
+                rrp = special * 1.25; rrp = Math.round(rrp * 100) / 100;
                 let p = document.createElement("p");
                 p.id = "shutter" + num;
                 p.innerHTML = num + ": $" + special + " (Special) | $" + rrp + " (RRP)";
@@ -125,7 +125,7 @@ function calculate() {
             .then(data => {
                 let price = data[height][0][width];
                 let special = (price * 1.1 * 1.3 + 571) * 1.1; special = Math.round(special * 100) / 100;
-                rrp = special * 1.2; rrp = Math.round(rrp * 100) / 100;
+                rrp = special * 1.25; rrp = Math.round(rrp * 100) / 100;
                 let p = document.createElement("p");
                 p.id = "shutter" + num;
                 p.innerHTML = num + ": $" + special + " (Special) | $" + rrp + " (RRP)";
@@ -151,6 +151,9 @@ function calculate() {
         clear.onclick = function() {clearPrices()};
         document.getElementById("prices").appendChild(clear);
     }
+    document.getElementById("h").value = "";
+    document.getElementById("w").value = "";
+
 }
 function clearPrices() {
     if (confirm("Are you sure you want to clear the prices?")) {
