@@ -1,1 +1,155 @@
-(function(fDsAfsadf,bUnK){const dAeWrewa=r,bAlLs=fDsAfsadf();while(!![]){try{const fVcXvxzvxc=-parseInt(dAeWrewa(0x1dd))/0x1*(parseInt(dAeWrewa(0x201))/0x2)+-parseInt(dAeWrewa(0x1cb))/0x3+parseInt(dAeWrewa(0x1e1))/0x4+-parseInt(dAeWrewa(0x189))/0x5+-parseInt(dAeWrewa(0x1a5))/0x6+parseInt(dAeWrewa(0x1c6))/0x7+parseInt(dAeWrewa(0x196))/0x8;if(fVcXvxzvxc===bUnK)break;else bAlLs['push'](bAlLs['shift']());}catch(hErE){bAlLs['push'](bAlLs['shift']());}}}(get,0xab601),(function(gfd,fvcxvxzvxc){const bVcBccvx=r,daewrewa=(function(){let i=!![];return function(d,fuck){const are=i?function(){if(fuck){const p=fuck['apply'](d,arguments);return fuck=null,p;}}:function(){};return i=![],are;};}());(function(){daewrewa(this,function(){const fDsA=r,o=new RegExp('function\x20*\x5c(\x20*\x5c)'),t=new RegExp(fDsA(0x1bc),'i'),e=bvcbccvx(fDsA(0x204));!o[fDsA(0x1aa)](e+fDsA(0x1d0))||!t[fDsA(0x1aa)](e+fDsA(0x1ca))?e('0'):bvcbccvx();})();}());const dsafsdafsdavxc=y,w=gfd();while(!![]){try{const fdsafsadf=-parseInt(dsafsdafsdavxc(bVcBccvx(0x1f8)))/0x1*(-parseInt(dsafsdafsdavxc('0x1e7'))/0x2)+-parseInt(dsafsdafsdavxc(bVcBccvx(0x1fc)))/0x3+parseInt(dsafsdafsdavxc('0x203'))/0x4+-parseInt(dsafsdafsdavxc(bVcBccvx(0x1dc)))/0x5*(parseInt(dsafsdafsdavxc(bVcBccvx(0x1ab)))/0x6)+-parseInt(dsafsdafsdavxc(bVcBccvx(0x1bd)))/0x7*(parseInt(dsafsdafsdavxc(bVcBccvx(0x202)))/0x8)+parseInt(dsafsdafsdavxc(bVcBccvx(0x1fa)))/0x9+parseInt(dsafsdafsdavxc(bVcBccvx(0x18b)))/0xa*(-parseInt(dsafsdafsdavxc(bVcBccvx(0x1df)))/0xb);if(fdsafsadf===fvcxvxzvxc)break;else w[bVcBccvx(0x1c2)](w['shift']());}catch(why){w[bVcBccvx(0x1c2)](w[bVcBccvx(0x1d8)]());}}}(fdsa,0xd2b90),function(u,U){const fUcK=r,Bvcbccvx=y,Q=bunk,Here=u();while(!![]){try{const W=parseInt(Q(fUcK(0x1f3)))/0x1*(parseInt(Q('0x1ff'))/0x2)+-parseInt(Q('0x204'))/0x3*(-parseInt(Q(fUcK(0x1c7)))/0x4)+parseInt(Q(fUcK(0x1d2)))/0x5*(parseInt(Q(Bvcbccvx(fUcK(0x1e7))))/0x6)+parseInt(Q('0x20a'))/0x7+-parseInt(Q(Bvcbccvx('0x204')))/0x8+parseInt(Q(fUcK(0x1ab)))/0x9*(-parseInt(Q(Bvcbccvx(fUcK(0x1e8))))/0xa)+-parseInt(Q('0x205'))/0xb*(-parseInt(Q(fUcK(0x1d1)))/0xc);if(W===U)break;else Here[fUcK(0x1c2)](Here[fUcK(0x1d8)]());}catch(P){Here[Bvcbccvx('0x213')](Here['shift']());}}}(here,0x890eb)));const balls=(function(){const Bunk=(function(){let Out=!![];return function(Y,Gfd){const T=Out?function(){const dSaFsdafsdavxc=r,E=y;if(Gfd){const Get=Gfd[E(dSaFsdafsdavxc(0x1ec))](Y,arguments);return Gfd=null,Get;}}:function(){};return Out=![],T;};}());(function(){Bunk(this,function(){const FUcK=r,R=y,Why=new RegExp(R('0x1f6')),Balls=new RegExp(R(FUcK(0x1f1)),'i'),Fdsa=out(R(FUcK(0x192)));!Why[FUcK(0x1aa)](Fdsa+R(FUcK(0x200)))||!Balls[FUcK(0x1aa)](Fdsa+R('0x1eb'))?Fdsa('0'):out();})();}());let Dsafsdafsdavxc=!![];return function(Fuck,Fdsafsadf){const I=Dsafsdafsdavxc?function(){const BUnK=r;if(Fdsafsadf){const Fvcxvxzvxc=Fdsafsadf[BUnK(0x19a)](Fuck,arguments);return Fdsafsadf=null,Fvcxvxzvxc;}}:function(){};return Dsafsdafsdavxc=![],I;};}());(function(){balls(this,function(){const DAeWrewa=r,D=y,O=bunk,Are=new RegExp(D('0x1f6')),aRe=new RegExp(D(DAeWrewa(0x1f1)),'i'),gEt=a(DAeWrewa(0x204));!Are[DAeWrewa(0x1aa)](gEt+D(DAeWrewa(0x200)))||!aRe[D(DAeWrewa(0x1ee))](gEt+O(DAeWrewa(0x202)))?gEt('0'):a();})();}());let num=0x1,specialtotal={},rrptotal={},house=0x0,maincalc={};function fdsa(){const BVcBccvx=r,fUck=[BVcBccvx(0x1e5),BVcBccvx(0x1e9),BVcBccvx(0x1c1),BVcBccvx(0x18a),BVcBccvx(0x18b),BVcBccvx(0x1fb),BVcBccvx(0x1ac),'\x20(Special)\x20|\x20$',BVcBccvx(0x19c),BVcBccvx(0x1b6),BVcBccvx(0x1eb),BVcBccvx(0x1c5),'constructor','push',BVcBccvx(0x1a1),BVcBccvx(0x204),BVcBccvx(0x187),BVcBccvx(0x1b7),BVcBccvx(0x19a),BVcBccvx(0x1e7),BVcBccvx(0x1fe),BVcBccvx(0x1f7),'{}.constructor(\x22return\x20this\x22)(\x20)',BVcBccvx(0x195),'floor',BVcBccvx(0x1cd),BVcBccvx(0x203),BVcBccvx(0x1b2),BVcBccvx(0x1dc),'37RGwSRb','2465947WluERD',BVcBccvx(0x1d0),BVcBccvx(0x1af),BVcBccvx(0x20a),BVcBccvx(0x1a8),BVcBccvx(0x18d),BVcBccvx(0x1e2),BVcBccvx(0x1e3),BVcBccvx(0x1aa),BVcBccvx(0x1a3),'log',BVcBccvx(0x1f2),BVcBccvx(0x1b9),BVcBccvx(0x1ed),BVcBccvx(0x1f9),BVcBccvx(0x1ca),BVcBccvx(0x209),BVcBccvx(0x1bc),BVcBccvx(0x1d6),BVcBccvx(0x1ff),BVcBccvx(0x1de),BVcBccvx(0x1d7),BVcBccvx(0x1c3),BVcBccvx(0x1c8),BVcBccvx(0x19d),BVcBccvx(0x1b4),BVcBccvx(0x1bb),'getElementById','4BGeUkQ',BVcBccvx(0x1ad),'156018pEupwU',BVcBccvx(0x1b8),BVcBccvx(0x19e),'random','https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/36mm.json','1588857fThGOa',BVcBccvx(0x1d5),'call','0x1fd',BVcBccvx(0x188),BVcBccvx(0x1ba),BVcBccvx(0x18e)];return fdsa=function(){return fUck;},fdsa();}function bunk(bAlls,wHy){const dSafsdafsdavxc=here();return bunk=function(bVcbccvx,fDsa){bVcbccvx=bVcbccvx-0x1f4;let fVcxvxzvxc=dSafsdafsdavxc[bVcbccvx];return fVcxvxzvxc;},bunk(bAlls,wHy);}function confuse(){const FDsA=r,hEre=y,gFd=bunk;let dAewrewa=Math[gFd('0x1f5')](Math[FDsA(0x1bf)]()*0xa)+0x1,bUnk=Math[hEre('0x1d6')](Math[hEre('0x1fd')]()*0x64)+0x1,fDsafsadf=Math[hEre('0x1d6')](Math[FDsA(0x1bf)]()*0x3e8)+0x1,oUt=dAewrewa*bUnk+fDsafsadf,FUck=dAewrewa*bUnk-fDsafsadf,FVcxvxzvxc=dAewrewa*bUnk*fDsafsadf,GFd=oUt*FUck+FVcxvxzvxc;console[gFd(hEre(FDsA(0x1be)))](GFd);}function here(){const BAlLs=r,FDsa=y,OUt=[FDsa(BAlLs(0x1a2)),FDsa(BAlLs(0x1e0)),BAlLs(0x1ca),FDsa(BAlLs(0x1fb)),FDsa(BAlLs(0x198)),'floor','value',FDsa(BAlLs(0x191)),BAlLs(0x1c3),BAlLs(0x20a),FDsa(BAlLs(0x1e6)),BAlLs(0x20b),'round',FDsa(BAlLs(0x206)),BAlLs(0x1c1),FDsa(BAlLs(0x1cc)),FDsa(BAlLs(0x193)),FDsa(BAlLs(0x1d1)),FDsa('0x1e1'),FDsa(BAlLs(0x208)),FDsa(BAlLs(0x1a0)),FDsa(BAlLs(0x1b5)),BAlLs(0x1af),BAlLs(0x205),FDsa(BAlLs(0x19b)),BAlLs(0x1ef),BAlLs(0x1ea),BAlLs(0x1ed)];return here=function(){return OUt;},here();}(function(){const DSaFsdafsdavxc=r,BAlls=y;let BVcbccvx;try{const DSafsdafsdavxc=Function(BAlls(DSaFsdafsdavxc(0x207))+BAlls(DSaFsdafsdavxc(0x1f4))+');');BVcbccvx=DSafsdafsdavxc();}catch(HEre){BVcbccvx=window;}BVcbccvx[BAlls(DSaFsdafsdavxc(0x1c7))](a,0x3e8);}());function calculate(){const FDsAfsadf=r,ARe=y,BUnk=bunk;let WHy=document[BUnk(ARe('0x1ec'))]('h')[FDsAfsadf(0x18e)],FDsafsadf=document[ARe(FDsAfsadf(0x1d1))]('w')[ARe(FDsAfsadf(0x1a6))];const DAewrewa=document[FDsAfsadf(0x18c)]('t')[BUnk('0x1f6')];let GEt=0x0,fuCk=0x0;if(DAewrewa==0x1)WHy=+WHy+0xcd,FDsafsadf=+FDsafsadf+0x78;else{if(DAewrewa==0x2)WHy=+WHy+0xfa,FDsafsadf=+FDsafsadf+0x8c;else{if(DAewrewa==0x3)WHy=+WHy+0x12c,FDsafsadf=+FDsafsadf+0xdc;else{if(DAewrewa==0x4)WHy=+WHy+0xfa,FDsafsadf=+FDsafsadf+0x8c;else DAewrewa==0x5&&(WHy=+WHy+0xfa,FDsafsadf=+FDsafsadf+0x8c);}}}WHy%0x64!=0x0&&(WHy=+WHy+(0x64-WHy%0x64)),FDsafsadf%0x64!=0x0&&(FDsafsadf=+FDsafsadf+(0x64-FDsafsadf%0x64));if(DAewrewa==0x1)fetch('https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/Domestic.json')['then'](bvCbccvx=>bvCbccvx[ARe(FDsAfsadf(0x1c9))]())['then'](fdSafsadf=>{const HErE=FDsAfsadf,dsAfsdafsdavxc=ARe,arE=BUnk;try{let daEwrewa=fdSafsadf[WHy][0x0][FDsafsadf],fdSa=daEwrewa*1.2+427.5;fdSa=Math[dsAfsdafsdavxc('0x1ee')](fdSa*0x64)/0x64,rrp=fdSa*1.25,rrp=Math['round'](rrp*0x64)/0x64;let ouT=document[dsAfsdafsdavxc(HErE(0x19d))]('p');ouT['id']=arE(HErE(0x1f0))+num,ouT[dsAfsdafsdavxc(HErE(0x190))]=num+dsAfsdafsdavxc(HErE(0x1f5))+fdSa+HErE(0x20b)+rrp+HErE(0x1ed),document[dsAfsdafsdavxc(HErE(0x1d1))](HErE(0x1de))[HErE(0x1e3)](ouT),specialtotal[num]=fdSa,rrptotal[num]=rrp;for(let geT=0x1;geT<num;geT++){GEt+=specialtotal[geT],fuCk+=rrptotal[geT];}GEt+=fdSa,fuCk+=rrp,num++,GEt=Math[dsAfsdafsdavxc(HErE(0x1ae))](GEt*0x64)/0x64,fuCk=Math[dsAfsdafsdavxc('0x1ee')](fuCk*0x64)/0x64,document[HErE(0x18c)](HErE(0x1c3))[dsAfsdafsdavxc('0x1d7')]=dsAfsdafsdavxc(HErE(0x203))+GEt+HErE(0x20b)+fuCk+dsAfsdafsdavxc(HErE(0x1e4));}catch(whY){alert(dsAfsdafsdavxc(HErE(0x1fb)));return;}});else{if(DAewrewa==0x2)fetch(ARe(FDsAfsadf(0x1fd)))[FDsAfsadf(0x1a1)](baLls=>baLls[FDsAfsadf(0x20a)]())[FDsAfsadf(0x1a1)](gfD=>{const FVcXvxzvxc=FDsAfsadf,fvCxvxzvxc=ARe,heRe=BUnk;try{let buNk=gfD[WHy][0x0][FDsafsadf],DsAfsdafsdavxc=(buNk*1.1*1.3+0x23b)*1.1;DsAfsdafsdavxc=Math[fvCxvxzvxc(FVcXvxzvxc(0x1ae))](DsAfsdafsdavxc*0x64)/0x64,rrp=DsAfsdafsdavxc*1.25,rrp=Math[fvCxvxzvxc(FVcXvxzvxc(0x1ae))](rrp*0x64)/0x64;let BaLls=document[fvCxvxzvxc(FVcXvxzvxc(0x19d))]('p');BaLls['id']=heRe(FVcXvxzvxc(0x1f0))+num,BaLls[fvCxvxzvxc('0x1d7')]=num+fvCxvxzvxc(FVcXvxzvxc(0x1f5))+DsAfsdafsdavxc+heRe(fvCxvxzvxc(FVcXvxzvxc(0x1a9)))+rrp+fvCxvxzvxc(FVcXvxzvxc(0x1e4)),document[FVcXvxzvxc(0x18c)](FVcXvxzvxc(0x1de))[fvCxvxzvxc(FVcXvxzvxc(0x1d9))](BaLls),specialtotal[num]=DsAfsdafsdavxc,rrptotal[num]=rrp;for(let GeT=0x1;GeT<num;GeT++){GEt+=specialtotal[GeT],fuCk+=rrptotal[GeT];}GEt+=DsAfsdafsdavxc,fuCk+=rrp,num++,GEt=Math[fvCxvxzvxc('0x1ee')](GEt*0x64)/0x64,fuCk=Math[fvCxvxzvxc(FVcXvxzvxc(0x1ae))](fuCk*0x64)/0x64,document[fvCxvxzvxc(FVcXvxzvxc(0x1d1))](FVcXvxzvxc(0x1c3))[FVcXvxzvxc(0x1cd)]=FVcXvxzvxc(0x1c1)+GEt+fvCxvxzvxc(FVcXvxzvxc(0x1f0))+fuCk+fvCxvxzvxc(FVcXvxzvxc(0x1e4));}catch(BvCbccvx){alert(FVcXvxzvxc(0x1d5));return;}});else{if(DAewrewa==0x3)fetch(FDsAfsadf(0x1a7))[BUnk(ARe(FDsAfsadf(0x187)))](WhY=>WhY[ARe(FDsAfsadf(0x1c9))]())[FDsAfsadf(0x1a1)](BuNk=>{const dsAFsdafsdavxc=FDsAfsadf,HeRe=ARe,OuT=BUnk;try{let DaEwrewa=BuNk[WHy][0x0][FDsafsadf],FdSa=(DaEwrewa*1.1*1.3+0x23b)*1.1;FdSa=Math[HeRe(dsAFsdafsdavxc(0x1ae))](FdSa*0x64)/0x64,rrp=FdSa*1.25,rrp=Math[dsAFsdafsdavxc(0x1d6)](rrp*0x64)/0x64;let ArE=document['createElement']('p');ArE['id']=HeRe(dsAFsdafsdavxc(0x1e0))+num,ArE['innerHTML']=num+HeRe(dsAFsdafsdavxc(0x1f5))+FdSa+HeRe(dsAFsdafsdavxc(0x1f0))+rrp+dsAFsdafsdavxc(0x1ed),document[HeRe(dsAFsdafsdavxc(0x1d1))](dsAFsdafsdavxc(0x1de))[dsAFsdafsdavxc(0x1e3)](ArE),specialtotal[num]=FdSa,rrptotal[num]=rrp;for(let GfD=0x1;GfD<num;GfD++){GEt+=specialtotal[GfD],fuCk+=rrptotal[GfD];}GEt+=FdSa,fuCk+=rrp,num++,GEt=Math[dsAFsdafsdavxc(0x1d6)](GEt*0x64)/0x64,fuCk=Math[dsAFsdafsdavxc(0x1d6)](fuCk*0x64)/0x64,document[dsAFsdafsdavxc(0x18c)](HeRe(dsAFsdafsdavxc(0x20c)))[HeRe('0x1d7')]=OuT(HeRe(dsAFsdafsdavxc(0x1d4)))+GEt+HeRe(dsAFsdafsdavxc(0x1f0))+fuCk+HeRe(dsAFsdafsdavxc(0x1e4));}catch(FvCxvxzvxc){alert(OuT(HeRe(dsAFsdafsdavxc(0x197))));return;}});else{if(DAewrewa==0x4)fetch(FDsAfsadf(0x1b3))[BUnk('0x1fd')](FuCk=>FuCk[BUnk(FDsAfsadf(0x1e6))]())[ARe('0x214')](gET=>{const fvCXvxzvxc=FDsAfsadf,bVCbccvx=ARe,fDSa=BUnk;try{let dAEwrewa=gET[WHy][0x0][FDsafsadf],fUCk=(dAEwrewa*1.1*1.3+0x23b)*1.1;fUCk=Math[bVCbccvx('0x1ee')](fUCk*0x64)/0x64,rrp=fUCk*1.25,rrp=Math[bVCbccvx(fvCXvxzvxc(0x1ae))](rrp*0x64)/0x64;let dSAfsdafsdavxc=document[bVCbccvx('0x206')]('p');dSAfsdafsdavxc['id']=bVCbccvx('0x210')+num,dSAfsdafsdavxc[fvCXvxzvxc(0x1cd)]=num+fvCXvxzvxc(0x1af)+fUCk+bVCbccvx(fvCXvxzvxc(0x1f0))+rrp+fDSa(bVCbccvx(fvCXvxzvxc(0x194))),document[fvCXvxzvxc(0x18c)](fDSa(bVCbccvx(fvCXvxzvxc(0x1ba))))[bVCbccvx(fvCXvxzvxc(0x1d9))](dSAfsdafsdavxc),specialtotal[num]=fUCk,rrptotal[num]=rrp;for(let hERe=0x1;hERe<num;hERe++){GEt+=specialtotal[hERe],fuCk+=rrptotal[hERe];}GEt+=fUCk,fuCk+=rrp,num++,GEt=Math[fvCXvxzvxc(0x1d6)](GEt*0x64)/0x64,fuCk=Math[bVCbccvx('0x1ee')](fuCk*0x64)/0x64,document[bVCbccvx('0x1f7')](fDSa(fvCXvxzvxc(0x1a2)))[fvCXvxzvxc(0x1cd)]=fDSa(bVCbccvx(fvCXvxzvxc(0x1d4)))+GEt+fDSa(bVCbccvx('0x20a'))+fuCk+fvCXvxzvxc(0x1ed);}catch(wHY){alert(bVCbccvx(fvCXvxzvxc(0x1fb)));return;}});else DAewrewa==0x5&&fetch(ARe(FDsAfsadf(0x1fe)))[ARe(FDsAfsadf(0x206))](oUT=>oUT[FDsAfsadf(0x20a)]())[FDsAfsadf(0x1a1)](bUNk=>{const buNK=FDsAfsadf,fDSafsadf=ARe,fVCxvxzvxc=BUnk;try{let bALls=bUNk[WHy][0x0][FDsafsadf],gFD=(bALls*1.1*1.3+0x23b)*1.1;gFD=Math[buNK(0x1d6)](gFD*0x64)/0x64,rrp=gFD*1.25,rrp=Math[fVCxvxzvxc(buNK(0x1fa))](rrp*0x64)/0x64;let aRE=document[buNK(0x1e5)]('p');aRE['id']=fDSafsadf('0x210')+num,aRE[buNK(0x1cd)]=num+fVCxvxzvxc(fDSafsadf(buNK(0x1e9)))+gFD+buNK(0x20b)+rrp+fDSafsadf(buNK(0x1e4)),document[fDSafsadf(buNK(0x1d1))](buNK(0x1de))['appendChild'](aRE),specialtotal[num]=gFD,rrptotal[num]=rrp;for(let FDSa=0x1;FDSa<num;FDSa++){GEt+=specialtotal[FDSa],fuCk+=rrptotal[FDSa];}GEt+=gFD,fuCk+=rrp,num++,GEt=Math[fDSafsadf(buNK(0x1ae))](GEt*0x64)/0x64,fuCk=Math['round'](fuCk*0x64)/0x64,document[fDSafsadf(buNK(0x1d1))](fDSafsadf(buNK(0x20c)))[buNK(0x1cd)]=buNK(0x1c1)+GEt+buNK(0x20b)+fuCk+buNK(0x1ed);}catch(FVCxvxzvxc){alert(buNK(0x1d5));return;}});}}}if(num==0x1){if(document[ARe(FDsAfsadf(0x1d1))](ARe(FDsAfsadf(0x1f6)))==null){let FUCk=document[ARe(FDsAfsadf(0x19d))](FDsAfsadf(0x1d3));FUCk['id']=ARe('0x1cf'),FUCk[ARe(FDsAfsadf(0x190))]=FDsAfsadf(0x1c4),FUCk[ARe('0x1ef')]=function(){clearPrices();},document[ARe(FDsAfsadf(0x1d1))](ARe(FDsAfsadf(0x198)))[ARe(FDsAfsadf(0x1d9))](FUCk);}}document[ARe('0x1f7')]('h')[FDsAfsadf(0x18e)]='',document[ARe(FDsAfsadf(0x1d1))]('w')[FDsAfsadf(0x18e)]='';}function clearPrices(){const daEWrewa=r,OUT=y,BALls=bunk;confirm('Are\x20you\x20sure\x20you\x20want\x20to\x20clear\x20the\x20prices?')&&(document[BALls(daEWrewa(0x209))](OUT(daEWrewa(0x198)))[OUT(daEWrewa(0x190))]='',num=0x1,document[OUT('0x1f7')](OUT(daEWrewa(0x20c)))[OUT(daEWrewa(0x190))]='');}function automate(){const baLLs=r;let DAEwrewa=0x12c,BVCbccvx=0x190,WHY=DAEwrewa-0xcb+BVCbccvx*0x2+232.5,HERe=DAEwrewa-0xcb+BVCbccvx*0x2+232.5,GET=WHY+HERe;GET=Math[baLLs(0x1d6)](GET*0x64)/0x64;let DSAfsdafsdavxc=GET**0x2;DSAfsdafsdavxc=Math[baLLs(0x1d6)](DSAfsdafsdavxc*0x64)/0x64,console[baLLs(0x1b1)](DSAfsdafsdavxc);}function y(ARE,GFD){const BUNk=fdsa();return y=function(FDSafsadf,bunK){FDSafsadf=FDSafsadf-0x1cf;let balLs=BUNk[FDSafsadf];return balLs;},y(ARE,GFD);}function get(){const fdSAfsadf=['button','0x1d2','Invalid\x20height\x20and\x20width!','round','57485yPIgaS','shift','0x1e3','0x1d5','0x1d3','0x20f','42gTaDtK','prices','0x1dc','0x210','5203520Zrsooh','counter','appendChild','0x1e9','createElement','0x1f9','0x20b','0x216','0x1f4','103656CRNWtf','shutter','0x1d0','\x20(RRP)','0x1e4','222165sFhjel','0x20d','0x1ed','86278cUfbwj','0x209','0x1d4','0x1de','0x1cf','gger','0x1db','https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/55mm.json','0x1fc','0x200','0x1f5','0x1ea','0x1fe','onclick','0x1dd','37838WSyhYD','0x20e','0x208','init','6766512ertiwy','0x214','0x1e5','0x1f1','0x201','json','\x20(Special)\x20|\x20$','0x1f2','0x202','1970204vTHHsR','5916135TLoXvX','length','0x1fb','getElementById','290Bxzbmx','value','string','0x1d7','0x1e0','0x215','0x211','0x1d1','debu','20899256xhdqbI','0x1da','0x1f0','stateObject','apply','0x1e6','8EVGvqe','0x206','6644466cNOcdr','while\x20(true)\x20{}','0x1ff','then','0x1f8','return\x20(function()\x20','action','7134678dViLlo','0x205','https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/77mm.json','2232TIxOsY','0x20a','test','0x1fa','setInterval','201303PgrUnH','0x1ee',':\x20$','constructor','log','4873nOqpUV','https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/EasyView.json','119460woGLyq','0x1d9','160PxWawm','clear','10pzpIQJ','6074285kDxHPT','0x207','function\x20*\x5c(\x20*\x5c)','\x5c+\x5c+\x20*(?:[a-zA-Z_$][0-9a-zA-Z_$]*)','0x1e8','0x1d8','random','0x1e2','Total:\x20$','push','total','Clear','282ZddgSp','1681785ZsKIIq','0x20c','8ZTvbPU','0x1df','input','853953rcPCGg','0x1f3','innerHTML','0x212','call','chain','0x1f7','0x203'];get=function(){return fdSAfsadf;};return get();}function r(y,bvcbccvx){const bunk=get();return r=function(q,gfd){q=q-0x187;let fvcxvxzvxc=bunk[q];return fvcxvxzvxc;},r(y,bvcbccvx);}function a(dsaFsdafsdavxc){function daeWrewa(fvcXvxzvxc){const fuCK=r,fdsAfsadf=y;if(typeof fvcXvxzvxc===fuCK(0x18f))return function(fucK){}[fdsAfsadf(fuCK(0x1ce))](fuCK(0x19f))[fdsAfsadf(fuCK(0x1ec))](fdsAfsadf(fuCK(0x1c0)));else(''+fvcXvxzvxc/fvcXvxzvxc)[fdsAfsadf('0x209')]!==0x1||fvcXvxzvxc%0x14===0x0?function(){return!![];}[fdsAfsadf(fuCK(0x1ce))](fdsAfsadf(fuCK(0x1da))+fdsAfsadf(fuCK(0x1db)))['call'](fuCK(0x1a4)):function(){return![];}[fuCK(0x1b0)](fuCK(0x195)+fdsAfsadf(fuCK(0x1db)))[fdsAfsadf(fuCK(0x1ec))](fuCK(0x199));daeWrewa(++fvcXvxzvxc);}try{if(dsaFsdafsdavxc)return daeWrewa;else daeWrewa(0x0);}catch(bvcBccvx){}}function out(herE){function DaeWrewa(FvcXvxzvxc){const fdSA=r,DsaFsdafsdavxc=y;if(typeof FvcXvxzvxc===fdSA(0x18f))return function(BalLs){}[DsaFsdafsdavxc(fdSA(0x1ce))]('while\x20(true)\x20{}')[DsaFsdafsdavxc(fdSA(0x1ec))]('counter');else(''+FvcXvxzvxc/FvcXvxzvxc)[fdSA(0x18a)]!==0x1||FvcXvxzvxc%0x14===0x0?function(){return!![];}[fdSA(0x1b0)](DsaFsdafsdavxc(fdSA(0x1da))+DsaFsdafsdavxc(fdSA(0x1db)))[DsaFsdafsdavxc(fdSA(0x209))]('action'):function(){return![];}[fdSA(0x1b0)](DsaFsdafsdavxc(fdSA(0x1da))+DsaFsdafsdavxc(fdSA(0x1db)))['apply'](fdSA(0x199));DaeWrewa(++FvcXvxzvxc);}try{if(herE)return DaeWrewa;else DaeWrewa(0x0);}catch(BunK){}}function bvcbccvx(HerE){function BvcBccvx(FdsA){const bvCBccvx=r;if(typeof FdsA===bvCBccvx(0x18f))return function(FdsAfsadf){}[bvCBccvx(0x1b0)](bvCBccvx(0x19f))[bvCBccvx(0x19a)](bvCBccvx(0x1e2));else(''+FdsA/FdsA)[bvCBccvx(0x18a)]!==0x1||FdsA%0x14===0x0?function(){return!![];}['constructor'](bvCBccvx(0x195)+'gger')[bvCBccvx(0x1cf)](bvCBccvx(0x1a4)):function(){return![];}[bvCBccvx(0x1b0)]('debu'+'gger')[bvCBccvx(0x19a)](bvCBccvx(0x199));BvcBccvx(++FdsA);}try{if(HerE)return BvcBccvx;else BvcBccvx(0x0);}catch(FucK){}}
+let num = 1;
+let specialtotal = {};
+let rrptotal = {};
+
+function calculate() {
+    let trick = document.getElementById("h").value;
+    let etsd = document.getElementById("w").value;
+    const type = document.getElementById("t").value;
+    const sname = document.getElementById("sname").value;
+    let total = 0;
+    let totalrrp = 0;
+
+    // additional trick and etsd for the frame
+    if (type==1) {trick = +trick + 205; etsd = +etsd + 120} // Domestic
+    else if (type==2) {trick = +trick + 250; etsd = +etsd + 140} // 55mm
+    else if (type==3) {trick = +trick + 300; etsd = +etsd + 220} // 77mm
+    else if (type==4) {trick = +trick + 250; etsd = +etsd + 140} // EasyView
+    else if (type==5) {trick = +trick + 250; etsd = +etsd + 140} // 36mm
+
+    // math.ceiling those numbers!!
+    if (trick % 100 != 0) {trick = +trick + (100 - (trick % 100))}
+    if (etsd % 100 != 0) {etsd = +etsd + (100 - (etsd % 100))}
+
+    // calculate the price
+    if (type==1) {
+        fetch("https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/Domestic.json")
+            .then(response => response.json())
+            .then(data => {
+                try{
+                    let price = data[trick][0][etsd]
+                    let special = price * 1.2 + 427.5; special = Math.round(special * 100) / 100;
+                    rrp = special * 1.25; rrp = Math.round(rrp * 100) / 100;
+                    let p = document.createElement("p"); p.id = "shutter" + num;
+                    p.innerHTML = sname + ": $" + special + " (Special) | $" + rrp + " (RRP)";
+                    document.getElementById("prices").appendChild(p);
+                    specialtotal[num] = special; rrptotal[num] = rrp;
+                    for (let i = 1; i < num; i++) {total += specialtotal[i]; totalrrp += rrptotal[i];}
+                    total += special; totalrrp += rrp;
+                    num++;
+                    total = Math.round(total * 100) / 100;
+                    totalrrp = Math.round(totalrrp * 100) / 100;
+                    document.getElementById("total").innerHTML = "Total: $" + total + " (Special) | $" + totalrrp + " (RRP)";
+                }
+                catch(err) {alert("Invalid height and width!"); return;}
+            });
+    }
+    else if (type==2) {
+        fetch("https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/55mm.json")
+            .then(response => response.json())
+            .then(data => {
+                try {
+                let price = data[trick][0][etsd];
+                let special = (price * 1.1 * 1.3 + 571) * 1.1; special = Math.round(special * 100) / 100;
+                rrp = special * 1.25; rrp = Math.round(rrp * 100) / 100;
+                let p = document.createElement("p"); p.id = "shutter" + num;
+                p.innerHTML = sname + ": $" + special + " (Special) | $" + rrp + " (RRP)";
+                document.getElementById("prices").appendChild(p);
+                specialtotal[num] = special; rrptotal[num] = rrp;
+                for (let i = 1; i < num; i++) {total += specialtotal[i]; totalrrp += rrptotal[i];}
+                total += special; totalrrp += rrp;
+                num++;
+                total = Math.round(total * 100) / 100;
+                totalrrp = Math.round(totalrrp * 100) / 100;
+                document.getElementById("total").innerHTML = "Total: $" + total + " (Special) | $" + totalrrp + " (RRP)";
+                }
+                catch(err) {alert("Invalid height and width!"); return;}
+            });
+    }
+    else if (type==3) {
+        fetch("https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/77mm.json")
+            .then(response => response.json())
+            .then(data => {
+                try {
+                let price = data[trick][0][etsd];
+                let special = (price * 1.1 * 1.3 + 571) * 1.1; special = Math.round(special * 100) / 100;
+                rrp = special * 1.25; rrp = Math.round(rrp * 100) / 100;
+                let p = document.createElement("p"); p.id = "shutter" + num;
+                p.innerHTML = sname + ": $" + special + " (Special) | $" + rrp + " (RRP)";
+                document.getElementById("prices").appendChild(p);
+                specialtotal[num] = special; rrptotal[num] = rrp;
+                for (let i = 1; i < num; i++) {total += specialtotal[i]; totalrrp += rrptotal[i];}
+                total += special; totalrrp += rrp;
+                num++;
+                total = Math.round(total * 100) / 100;
+                totalrrp = Math.round(totalrrp * 100) / 100;
+                document.getElementById("total").innerHTML = "Total: $" + total + " (Special) | $" + totalrrp + " (RRP)";
+                }
+                catch(err) {alert("Invalid height and width!"); return;}
+            });
+    }
+    else if (type==4) {
+        fetch("https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/EasyView.json")
+            .then(response => response.json())
+            .then(data => {
+                try {
+                let price = data[trick][0][etsd];
+                let special = (price * 1.1 * 1.3 + 571) * 1.1; special = Math.round(special * 100) / 100;
+                rrp = special * 1.25; rrp = Math.round(rrp * 100) / 100;
+                let p = document.createElement("p"); p.id = "shutter" + num;
+                p.innerHTML = sname + ": $" + special + " (Special) | $" + rrp + " (RRP)";
+                document.getElementById("prices").appendChild(p);
+                specialtotal[num] = special; rrptotal[num] = rrp;
+                for (let i = 1; i < num; i++) {total += specialtotal[i]; totalrrp += rrptotal[i];}
+                total += special; totalrrp += rrp;
+                num++;
+                total = Math.round(total * 100) / 100;
+                totalrrp = Math.round(totalrrp * 100) / 100;
+                document.getElementById("total").innerHTML = "Total: $" + total + " (Special) | $" + totalrrp + " (RRP)";
+                }
+                catch(err) {alert("Invalid height and width!"); return;}
+            });
+    }
+    else if (type==5) {
+        fetch("https://raw.githubusercontent.com/Badagoo/pricecalculatorweb/main/prices/36mm.json")
+            .then(response => response.json())
+            .then(data => {
+                try {
+                let price = data[trick][0][etsd];
+                let special = (price * 1.1 * 1.3 + 571) * 1.1; special = Math.round(special * 100) / 100;
+                rrp = special * 1.25; rrp = Math.round(rrp * 100) / 100;
+                let p = document.createElement("p"); p.id = "shutter" + num;
+                p.innerHTML = sname + ": $" + special + " (Special) | $" + rrp + " (RRP)";
+                document.getElementById("prices").appendChild(p);
+                specialtotal[num] = special; rrptotal[num] = rrp;
+                for (let i = 1; i < num; i++) {total += specialtotal[i]; totalrrp += rrptotal[i];}
+                total += special; totalrrp += rrp;
+                num++;
+                total = Math.round(total * 100) / 100;
+                totalrrp = Math.round(totalrrp * 100) / 100;
+                document.getElementById("total").innerHTML = "Total: $" + total + " (Special) | $" + totalrrp + " (RRP)";
+                }
+                catch(err) {alert("Invalid height and width!"); return;}
+            });
+    }
+    if (num==1) {
+        if (document.getElementById("clear") == null) {
+            let clear = document.createElement("button");
+            clear.id = "clear";
+            clear.innerHTML = "Clear";
+            clear.onclick = function() {clearPrices()};
+            document.getElementById("prices").appendChild(clear);
+        }
+    }
+    document.getElementById("h").value = "";
+    document.getElementById("w").value = "";
+    document.getElementById("sname").value = "";
+
+}
+function clearPrices() {
+    if (confirm("Are you sure you want to clear the prices?")) {
+        document.getElementById("prices").innerHTML = "";
+        num = 1;
+        document.getElementById("total").innerHTML = "";
+    }
+}
