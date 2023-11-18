@@ -187,10 +187,10 @@ function sendEmail() {
     message += "\nTotal: $" + total + " (special)"
     emailjs.send("service_d98mljk","template_n8zlzx6",{
         clName: document.getElementById("clName").value,
-        clAddress: document.getElementById("clName").value,
-        clPhone: document.getElementById("clName").value,
-        clEmail: document.getElementById("clName").value,
+        clAddress: document.getElementById("clAddress").value,
+        clPhone: document.getElementById("clPhone").value,
+        clEmail: document.getElementById("clEmail").value,
         message: message,
-        clNotes: document.getElementById("clName").value,
+        clNotes: document.getElementById("clNotes").value,
         });
 }
