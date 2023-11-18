@@ -177,6 +177,7 @@ function testing() {
     }
     message += "\nTotal: $" + total + " (special)"
     console.log(message);
+    console.log(document.getElementById("clNotes").value);
 }
 
 function sendEmail() {
