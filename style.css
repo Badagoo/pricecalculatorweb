@@ -17,21 +17,38 @@ input {
     border: 1px solid #ccc;
     border-radius: 5px;
     margin: 5px 10px;
+    padding-left: 10px;
+}
+input[id='h'] {width: 13.1em;}
+input[id='w'] {width: 13.1em;}
+input[id='sname'] {width: 16em;}
+textarea {
+    font-size: 28px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 5px 10px;
     width: 16em;
     padding-left: 10px;
+
 }
 select {
     font-size: 28px;
     border: 1px solid #ccc;
     border-radius: 5px;
     margin: 5px 10px;
-    width: 16.5em;
     padding-left: 10px;
+    -webkit-appearance: none;
+    -moz-appearance: none;
 }
+.select::-ms-expand {display: none;} 
+
+select[id='t'] {width:16.5em}
+select[id=wfit] {width:2em}
+select[id=hfit] {width:2em}
 button {
     font-size: 28px;
     border: 3px solid;
-    background: #f3f3f3;
+    background: #fff;
     border-radius: 5px;
     margin: 5px 10px;
     width: 16.5em;
@@ -50,11 +67,55 @@ p {
 p[id='total'] {
     color: green; 
 }
-button[id='calc'] {
-    border-color: blue;
-    color: blue;
+
+button[id='calc'] {border-color: blue; color: blue;}
+button[id='calc']:hover {background-color: blue; color: white;}
+
+button[id='clear'] {border-color: red;color: red;}
+button[id='clear']:hover {background-color: red; color: white;}
+
+button[id='rrpButton'] {border-color: purple; color: purple;}
+button[id='rrpButton']:hover {background-color: purple; color: white;}
+
+button[id='specialButton'] {border-color: gold;color: gold;}
+button[id='specialButton']:hover {background-color: gold; color: white;}
+
+button[id='email'] {border-color: lime; color: lime;}
+button[id='email']:hover {background-color: lime; color: white;}
+
+button[id='send'] {border-color: orange; color: orange;}
+button[id='send']:hover {background-color: orange; color: white;}
+
+button[id='rrpButton'] {
+    width: 8em;
+    padding-left: 10px;
 }
-button[id='clear'] {
-    border-color: red;
-    color: red;
+button[id='specialButton'] {
+    width: 8em;
+    padding-left: 10px;
 }
+div[id='priceType'] {
+    display: flex;
+}
+div[id='widthselect'] {
+    display: flex;
+}
+section {
+    width: 50%;
+    margin: auto;
+    margin-top: 15px;
+    padding-top: 1em;
+    padding-bottom: 1em;
+    background-color: #fff;
+    border-radius: 1em;
+    box-shadow: 0 0 10px #000;
+    display: flex;
+    overflow: hidden;
+    overflow-x: scroll;
+    flex: 1 0 100%;
+    scroll-snap-align: start;
+    scroll-behavior: smooth;
+    scroll-snap-type: x mandatory;
+    transition: all 0.5s ease;
+}
+::-webkit-scrollbar {display: none;}

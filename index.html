@@ -5,23 +5,60 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Price Calculator</title>
     <link rel="stylesheet" href="style.css">
+    <script type="text/javascript"
+        src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+    </script>
+    <script type="text/javascript">
+    (function(){
+        emailjs.init("0I1LzuzqPZFOq2lQf");
+    })();
+    </script>
 </head>
 <body>
-    <input id="h" type="number" name="height" placeholder="Height.. (mm)"><br>
-    <input id="w" type="number" name="width" placeholder="Width..  (mm)"><br>
-    <input id="sname" type="text" name="name" placeholder="Location.."><br>
-    <select id="t" placeholder="type">
-        <option value="0" disabled selected hidden>Select Type</option>
-        <option value="1">Domestic</option>
-        <option value="2">55mm</option>
-        <option value="3">77mm</option>
-        <option value="4">EasyView</option>
-        <option value="5">36mm</option>
-    </select><br>
-    <button id="calc" onClick="calculate()">Calculate</button>
-    <div id="prices"></div>
-    <br>
-    <p id="total"></p>
+    <section class="container">
+        <div id="shutterContainer">
+            <div class="heightselect">
+                <input id="h" type="number" name="height" placeholder="Height.. (mm)">
+                <select id="hfit">
+                    <option value="0">+</option>
+                    <option value="1">-</option>
+                </select></div>
+            <div class="widthselect">
+                <input id="w" type="number" name="width" placeholder="Width..  (mm)">
+                <select id="wfit">
+                    <option value="0">++</option>
+                    <option value="1">--</option>
+                    <option value="2">+-</option>
+                </select>
+            </div>
+            
+            <input id="sname" type="text" name="name" placeholder="Location.."><br>
+            <select id="t" placeholder="type">
+                <option value="0" disabled selected hidden>Select Type</option>
+                <option value="1">Domestic</option>
+                <option value="2">55mm</option>
+                <option value="3">77mm</option>
+                <option value="4">EasyView</option>
+                <option value="5">36mm</option>
+            </select><br>
+            <button id="calc" onClick="calculate()">Calculate</button>
+            <div id="prices"></div>
+            <br>
+            <p id="total"></p>
+            <div id="priceType"></div>
+            <a href="#emailContainer"><button id="email">Email</button></a>
+        </div>
+        <div id="emailContainer">
+            <input id="clName" type="text" name="name" placeholder="Name.."><br>
+            <input id="clAddress" type="text" name="name" placeholder="Address.."><br>
+            <input id="clPhone" type="number" name="phone" placeholder="Phone.."><br>
+            <input id="clEmail" type="email" name="email" placeholder="Email.."><br>
+            <textarea name="clNotes" id="notes" cols="30" rows="10"></textarea><br>
+            <button id="send" onClick="sendEmail()">Send</button><br>
+            <a href="#shutterContainer"><button id="clear">Go Back</button></a>
+        </div>
+
+    </section>
     <script src="script.js"></script>
 </body>
 </html>
