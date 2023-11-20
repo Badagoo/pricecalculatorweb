@@ -182,10 +182,14 @@ function testing() {
 
 function sendEmail() {
     let message = "";
+    let customermessage = "";
     for (i = 1; i < num; i++) {
-        message += shutterIdentity[i][3] + ": " + shutterIdentity[i][6] + " height (fit: " + shutterIdentity[i][8] + ") | " + shutterIdentity[i][7] + " width (fit: " + shutterIdentity[i][9] + ")\n"
+        message += shutterIdentity[i][3] + ": " + shutterIdentity[i][6] + " height (fit: " + shutterIdentity[i][8] + ") | " + shutterIdentity[i][7] + " width (fit: " + shutterIdentity[i][9] + ")\n";
+        customermessage += shutterIdentity[i][3] + ": $" + shutterIdentity[i][5] + " (Rec. Retail Price) | $" + shutterIdentity[i][4] + " (Special Price)\n"
     }
     message += "\nTotal: $" + total + " (special)"
+    customermessage += "\nTotal: $" + totalrrp + " (Rec. Retail Price) | $" + total + " (Special Price)"
+
     emailjs.send("service_d98mljk","template_n8zlzx6",{
         clName: document.getElementById("clName").value,
         clAddress: document.getElementById("clAddress").value,
@@ -194,4 +198,12 @@ function sendEmail() {
         message: message,
         clNotes: document.getElementById("clNotes").value,
         });
+
+
+    emailjs.send("service_d98mljk","template_t9ofsva",{
+        clName: document.getElementById("clName").value,
+        message: customermessage,
+        clEmail: document.getElementById("clEmail").value,
+        });
+    alert("Email sent!");
 }

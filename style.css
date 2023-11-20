@@ -6,9 +6,16 @@ html {
     margin-left: 1%;
     margin-right: 1%;
     margin-top: 1%;
-    max-width: 100%;
+    max-width: 25%;
     scroll-snap-type: x mandatory;
 }
+
+@media only screen and (max-width: 720px) {
+    html {max-width: 100%;}
+    button[id='email'] {display: none;}
+    button[id='goback'] {display: none;}
+}
+
 body {
     background-color: #f3f3f3;
     font-family: 'Roboto', sans-serif;
