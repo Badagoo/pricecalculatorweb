@@ -190,7 +190,7 @@ function sendEmail() {
     message += "\nTotal: $" + total + " (special)"
     customermessage += "\nTotal: $" + totalrrp + " (Rec. Retail Price) | $" + total + " (Special Price)"
 
-    emailjs.send("service_d98mljk","template_n8zlzx6",{
+    emailjs.send("service_qfjguc6","template_n8zlzx6",{
         clName: document.getElementById("clName").value,
         clAddress: document.getElementById("clAddress").value,
         clPhone: document.getElementById("clPhone").value,
@@ -200,7 +200,7 @@ function sendEmail() {
         });
 
 
-    emailjs.send("service_d98mljk","template_t9ofsva",{
+    emailjs.send("service_qfjguc6","template_t9ofsva",{
         clName: document.getElementById("clName").value,
         message: customermessage,
         clEmail: document.getElementById("clEmail").value,
